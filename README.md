@@ -1,2 +1,2 @@
 # mycode
-this is a repository
+this is just a test progect
